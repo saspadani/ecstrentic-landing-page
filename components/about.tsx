@@ -46,29 +46,30 @@ const About = () => {
         <p className='lg:w-[380px] text-[#69C1ED] font-medium text-[26px] leading-9 z-10'>
           Imagine being part of a community where being yourself is celebrated,
           where you can break free from the mundane and live life on your own
-          terms. That's what being a Socker is all about
+          terms. That&apos;s what being a Socker is all about
         </p>
         <p className='lg:w-[780px] text-[#ECECEC] text-[22px] font-normal leading-[30px] z-10'>
           You may have felt it growing up - that voice in your head urging you
-          to go against the grain and do things differently. And now that you're
-          an adult, you have the power to make your own choices and live your
-          best life. No more living by someone else's rules. <br />
+          to go against the grain and do things differently. And now that
+          you&apos;re an adult, you have the power to make your own choices and
+          live your best life. No more living by someone else&apos;s rules.{' '}
+          <br />
           <br />
           At Sockers, we embrace this spirit of independence and individuality.
-          We don't care about fitting in or following social norms. Instead, we
-          chart our own paths and blaze our own trails. <br />
+          We don&apos;t care about fitting in or following social norms.
+          Instead, we chart our own paths and blaze our own trails. <br />
           <br />
-          And it's not just about art or NFTs. Being a Socker is a way of life -
-          a feeling that transcends any one specific thing. We come together on
-          the blockchain as Dirty Sockers to celebrate our shared ethos and
-          support one another as we pursue our dreams.
+          And it&apos;s not just about art or NFTs. Being a Socker is a way of
+          life - a feeling that transcends any one specific thing. We come
+          together on the blockchain as Dirty Sockers to celebrate our shared
+          ethos and support one another as we pursue our dreams.
           <br />
-          <br /> We're building a vibrant, dynamic community of Dirty Sockers -
-          one that's flat and democratised, where everyone has a voice and every
-          idea is welcome. Together, we're exploring new horizons, learning from
-          one another, and making money while we do it.
+          <br /> We&apos;re building a vibrant, dynamic community of Dirty
+          Sockers - one that&apos;s flat and democratised, where everyone has a
+          voice and every idea is welcome. Together, we&apos;re exploring new
+          horizons, learning from one another, and making money while we do it.
           <br />
-          <br /> So if you're ready to embrace your inner Socker and join a
+          <br /> So if you&apos;re ready to embrace your inner Socker and join a
           community of like-minded individuals, we invite you to come be a part
           of the Dirty Socker way. The world is your oyster, and as a Socker,
           anything is possible.
